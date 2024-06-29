@@ -1,0 +1,22 @@
+# Adventurous-Tour-Selling-App
+
+<h1>This app is about Selling the Tour to the Tourists </h1>
+
+
+Only Backend is written in #Node.JS 
+
+<h2>To start a project on your local machine, do the following commands:- </h2>
+- npm install 
+- npm start
+
+
+# Key Feature in this APP :-
+- Complete Authentication and Authorisation using JWT
+- MongoDB from beginning to Advance level
+- Industry Standard code
+- Different user has different roles to access the tour 
+- Sending Mail to the real user while login, signp , forgetPassword etc..
+- Configuration of Multer and Sharp Library , used to upload and process the image / handling the multiform-data
+- Learned how the AWS S3 Bucket Works , how presigned url works to upload/retrive the files from the private Bucket
+- Preventing from cyber attack like :- SQL injection , XSS attack etc..
+- Payment Integration with Stripe

@@ -1,0 +1,9 @@
+node_modules
+# .env
+Command.md
+Mongo.md
+Notes.md
+test.js
+tempCodeRunner.js
+.prettierrc
+.eslintrc.json

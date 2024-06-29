@@ -1,0 +1,12 @@
+node_modules
+test.js
+test2.js
+.prettierrc
+.eslintrc.json
+.env
+dev-data
+ProfilePhotoUploads
+public
+Mongo.md
+Notes.md
+Command.md
