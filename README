@@ -1,11 +1,11 @@
-# Adventurous-Tour-Selling-App
+ Adventurous-Tour-Selling-App
 
-<h1>This app is about Selling the Tour to the Tourists </h1>
+This app is about Selling the Tour to the Tourists 
 
 
 Only Backend is written in #Node.JS 
 
-<h2>To start a project on your local machine, do the following commands:- </h2>
+To start a project on your local machine, do the following commands:- 
 - npm install 
 - npm start
 
