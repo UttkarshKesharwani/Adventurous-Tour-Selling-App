@@ -10,7 +10,7 @@ const authRouter = require('./Routes/authRouter');
 const reviewRoter = require('./Routes/reviewRouter');
 require('dotenv').config();
 const app = express();
-const port = 3000 || process.env.PORT ;
+const port = 3000 || process.env.PORT_ ;
 const cors = require('cors');
 
 
