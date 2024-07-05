@@ -128,7 +128,7 @@ app.use((err,req,res,next)=>{
   })
 })
 
-app.listen(3000, async  () => {
+app.listen(port, async  () => {
   await connetToDatabase() ;
   console.log(`server is running on port ${port}`);
 });
